@@ -12,7 +12,7 @@ namespace UnitTests
         public void NoInputFileFoundTest()
         {
             winner.winner.Main(new string[] { "--in", "inputFile", "--out", "wew" });
-            winner.winner.ErrorMessage.Should().Be($@"ERROR: Could not find file '{AppDomain.CurrentDomain.BaseDirectory}inputFile'.." + "\n" + "Please, try again!");
+            winner.winner.ErrorMessage.Should().Be($@"ERROR: Could not find file '{AppDomain.CurrentDomain.BaseDirectory}\inputFile'.." + "\n" + "Please, try again!");
         }
 
         [Theory(DisplayName = "File with incorrect number of rows")]

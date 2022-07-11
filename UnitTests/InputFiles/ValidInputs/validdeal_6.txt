@@ -1,0 +1,5 @@
+﻿Name1:3S,7C,7S,7D,KD
+Name2:2C,3D,JH,8H,KS
+Name3:2H,4H,6D,QS,KH
+Name4:2D,9S,8D,8C,10C
+Name5:8S,QC,KC,AH,3C

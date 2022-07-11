@@ -1,0 +1,5 @@
+﻿Name1:AH,10C,Cr,2S,10D
+Name2:KD,Qh,10C,4C,AC
+Name3:6S,8D,3D,JH,Dw
+:5H,3S,KH,AS,9D
+Name4:5H,3S,KH,AS,9D
